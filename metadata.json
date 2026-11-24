@@ -1,0 +1,6 @@
+{
+  "name": "AcademicRAG Studio",
+  "description": "Domain-specific RAG assistant, retrieval evaluation lab, hallucination guardrails workbench, and technical report generator for academic syllabi and regulations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
